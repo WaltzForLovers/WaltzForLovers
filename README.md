@@ -2,121 +2,87 @@
 
 # Anton Smyslov
 
-**ML & Backend Engineer · Go · Rust**
+**Backend & ML Engineer · Go · Python**
 
-[![VK](https://img.shields.io/badge/VK-0077FF?logo=vk&logoColor=white&style=for-the-badge)](https://vk.com/waltzforlovers)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge)](https://telegram.me/waltzforlovers)
-[![Email](https://img.shields.io/badge/waltzforlovers@gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:waltzforlovers@gmail.com)
-
-![Open to opportunities](https://img.shields.io/badge/Open%20to%20opportunities-00B37E?style=for-the-badge)
+[![Email](https://img.shields.io/badge/Email-waltzforlovers%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:waltzforlovers@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-waltzforlovers-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/waltzforlovers)
+![Open to work](https://img.shields.io/badge/Open_to_work-remote_·_relocation-00B37E?style=flat-square)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-ML Engineer and Backend Developer, building both intelligent systems and scalable services in Go and Rust. Passionate about clean architecture, distributed systems, and bringing ML models to production.
+I am a backend and ML engineer. I write production services in **Go** and **Python**, and I use **Rust** when the problem needs it — performance-critical or systems-level parts, not as a default.
 
----
+On the backend I build APIs and data-heavy services: PostgreSQL, Redis, Kafka, RabbitMQ, gRPC, Docker, Kubernetes, with Prometheus and Grafana for observability.
 
-## 🛠️ Tech Stack
+On the ML side I work in **computer vision** and **NLP**: training and inference pipelines, retrieval, and grounding model output in source documents.
 
-### Core Languages
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="50" alt="Go" title="Go" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="50" alt="Rust" title="Rust" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" title="Python" />
-  <img width="12" />
-</div>
+I am an MSc student at Saratov State University. My research is multi-agent visual analysis of anomalies in multivariate time series. My undergraduate thesis is a RAG system for question answering over company documentation.
 
-### ML / AI
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50" alt="PyTorch" title="PyTorch" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" alt="Keras" title="Keras" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="50" alt="Scikit-learn" title="Scikit-learn" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="50" alt="OpenCV" title="OpenCV" />
-  <img width="12" />
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="50" alt="HuggingFace" title="HuggingFace Transformers" />
-</div>
-
-### Backend & Databases
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL" title="PostgreSQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="50" alt="Redis" title="Redis" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="50" alt="Kafka" title="Apache Kafka" />
-</div>
-
-### Infrastructure & Observability
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker" title="Docker" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="50" alt="Kubernetes" title="Kubernetes" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="Linux" title="Linux" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="50" alt="Prometheus" title="Prometheus" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="50" alt="Grafana" title="Grafana" />
-</div>
-
-### Tools
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" title="Git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50" alt="Postman" title="Postman" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" alt="Jupyter" title="Jupyter" />
-</div>
-
-### 📚 Learning Next
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB" title="MongoDB" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="50" alt="Kubernetes" title="Kubernetes" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="50" alt="RabbitMQ" title="RabbitMQ" />
-</div>
+Open to remote roles and relocation.
 
 ---
 
-## 🚀 Projects
+## Stack
 
-### 🎵 [Spotify Collab Mixer](https://github.com/FelixWinchester/_spotify-collab-mixer)
-> CLI tool written in Go that merges multiple Spotify playlists into one with smart deduplication.
+**Languages**
 
-- OAuth 2.0 Authorization Code Flow implemented from scratch
-- Two-pass deduplication: exact Track ID match + fuzzy normalization (handles remastered, live, radio edit versions)
-- Handles playlists of any size via pagination
-- Token persistence and automatic refresh
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
-`Go` `Spotify Web API` `OAuth 2.0` `CLI`
+**Backend**
 
-### 🏋️ [SsuBench](https://github.com/FelixWinchester/_SSUbench)
-> REST API platform for gym membership and transaction management, written in Go.
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=grpc&logoColor=white)
 
-- JWT authentication with role-based access control (admin / member) and middleware stack (request_id, logger, recover)
-- Atomic payment transactions via pgx/v5 without ORM — raw SQL + golang-migrate for migrations
-- 14 unit tests with testify/mock; OpenAPI specification and detailed README with curl examples
-- Graceful shutdown, chi router, scany for row-to-struct mapping
+**Infra**
 
-`Go` `PostgreSQL` `pgx/v5` `chi` `JWT` `REST API`
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+**Observability**
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+
+**ML · CV & NLP**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## Education
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=WaltzForLovers&theme=tokyonight&hide_border=true" height="160"/>
-</div>
+### MSc — Saratov State University *(in progress)*
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WaltzForLovers&theme=tokyonight" height="160"/>
-</div>
+**Thesis:** Multi-agent visual analysis of anomalies in multivariate time series
+
+Multivariate time series are several aligned signals recorded over time — sensors, metrics, industrial or operational channels. A point that looks normal on one series can be an anomaly when all series are read together.
+
+The work is not a single detector with one score. Several cooperating analysis agents look at the same window from different angles (detection, comparison across channels, explanation). Visual analysis is part of the method: the output is meant to be inspected, so a person can see *where* the series diverged and *why* it was flagged.
+
+### BSc — Saratov State University
+
+**Thesis:** RAG system for question answering over company documentation
+
+A retrieval-augmented generation pipeline over an internal document corpus. Relevant passages are retrieved first; the answer is generated from those passages rather than from the model’s prior alone, so responses stay tied to company documentation.
+
+---
+
+## Public work
+
+Backend sample, not the full work I do in production:
+
+**[SSUbench](https://github.com/WaltzForLovers/_SSUbench)** — REST API in Go for a small task marketplace (customers, executors, bids, virtual-point payments). JWT and RBAC, raw SQL on pgx, transactional payments, chi, OpenAPI, Docker Compose, unit tests on the business rules.
