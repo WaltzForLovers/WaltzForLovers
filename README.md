@@ -16,9 +16,9 @@
 
 I am a backend and ML engineer. I write production services in **Go** and **Python**, and I use **Rust** when the problem needs it — performance-critical or systems-level parts, not as a default.
 
-On the backend I build APIs and data-heavy services: PostgreSQL, Redis, Kafka, RabbitMQ, gRPC, Docker, Kubernetes, with Prometheus and Grafana for observability.
+On the backend I build APIs and data-heavy services: Go and FastAPI on top of PostgreSQL, ClickHouse, Redis, Kafka, RabbitMQ and gRPC, packaged with Docker and Kubernetes, with Prometheus and Grafana for observability.
 
-On the ML side I work in **computer vision** and **NLP**: training and inference pipelines, retrieval, and grounding model output in source documents.
+On the ML side I work in **computer vision** and **NLP**: detection and OCR pipelines, retrieval over text and vector search, tracked experiments, and GPU inference served over HTTP as a normal production service.
 
 I am an MSc student at Saratov State University. My research is multi-agent visual analysis of anomalies in multivariate time series. My undergraduate thesis is a RAG system for question answering over company documentation.
 
@@ -34,19 +34,28 @@ Open to remote roles and relocation.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
-**Backend**
+**Backend & messaging**
 
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=grpc&logoColor=white)
+![Protobuf](https://img.shields.io/badge/Protobuf-2C4F7C?style=flat-square)
 
-**Infra**
+**Data & search**
+
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
+
+**Infra & CI**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 **Observability**
 
@@ -56,10 +65,17 @@ Open to remote roles and relocation.
 **ML · CV & NLP**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Ultralytics YOLO](https://img.shields.io/badge/YOLO-111F68?style=flat-square&logo=ultralytics&logoColor=white)
+![Tesseract](https://img.shields.io/badge/Tesseract_OCR-4A4A4A?style=flat-square)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
+
+**MLOps & data tooling**
+
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![CVAT](https://img.shields.io/badge/CVAT-1E7FBF?style=flat-square)
 
 ---
 
