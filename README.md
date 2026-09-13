@@ -114,7 +114,7 @@ ML Engineer and Backend Developer, building both intelligent systems and scalabl
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=FelixWinchester&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=WaltzForLovers&theme=tokyonight&hide_border=true" height="160"/>
 </div>
 
 <div align="center">
